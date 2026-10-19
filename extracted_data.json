@@ -1,0 +1,362 @@
+﻿[
+    {
+        "month":  "2021-01",
+        "hanbit":  8.59,
+        "mirae":  7.1,
+        "saebom":  10.15
+    },
+    {
+        "month":  "2021-02",
+        "hanbit":  9.08,
+        "mirae":  7.79,
+        "saebom":  10.32
+    },
+    {
+        "month":  "2021-03",
+        "hanbit":  10.22,
+        "mirae":  7.44,
+        "saebom":  9.75
+    },
+    {
+        "month":  "2021-04",
+        "hanbit":  9.83,
+        "mirae":  7.35,
+        "saebom":  9.32
+    },
+    {
+        "month":  "2021-05",
+        "hanbit":  9.77,
+        "mirae":  7.02,
+        "saebom":  8.94
+    },
+    {
+        "month":  "2021-06",
+        "hanbit":  9.78,
+        "mirae":  6.66,
+        "saebom":  8.55
+    },
+    {
+        "month":  "2021-07",
+        "hanbit":  9.36,
+        "mirae":  6.22,
+        "saebom":  8.56
+    },
+    {
+        "month":  "2021-08",
+        "hanbit":  8.64,
+        "mirae":  6.23,
+        "saebom":  8.25
+    },
+    {
+        "month":  "2021-09",
+        "hanbit":  8.35,
+        "mirae":  6.28,
+        "saebom":  8.52
+    },
+    {
+        "month":  "2021-10",
+        "hanbit":  7.69,
+        "mirae":  6.82,
+        "saebom":  9.34
+    },
+    {
+        "month":  "2021-11",
+        "hanbit":  9.47,
+        "mirae":  8.07,
+        "saebom":  10.89
+    },
+    {
+        "month":  "2021-12",
+        "hanbit":  10.36,
+        "mirae":  8.41,
+        "saebom":  11.25
+    },
+    {
+        "month":  "2022-01",
+        "hanbit":  10.07,
+        "mirae":  8.11,
+        "saebom":  10.39
+    },
+    {
+        "month":  "2022-02",
+        "hanbit":  10.79,
+        "mirae":  8.45,
+        "saebom":  9.58
+    },
+    {
+        "month":  "2022-03",
+        "hanbit":  11.19,
+        "mirae":  8.22,
+        "saebom":  9.25
+    },
+    {
+        "month":  "2022-04",
+        "hanbit":  11.54,
+        "mirae":  7.92,
+        "saebom":  8.93
+    },
+    {
+        "month":  "2022-05",
+        "hanbit":  11.84,
+        "mirae":  7.74,
+        "saebom":  8.54
+    },
+    {
+        "month":  "2022-06",
+        "hanbit":  10.98,
+        "mirae":  7.27,
+        "saebom":  8.58
+    },
+    {
+        "month":  "2022-07",
+        "hanbit":  10.66,
+        "mirae":  7.11,
+        "saebom":  7.95
+    },
+    {
+        "month":  "2022-08",
+        "hanbit":  9.99,
+        "mirae":  6.68,
+        "saebom":  8.2
+    },
+    {
+        "month":  "2022-09",
+        "hanbit":  9.66,
+        "mirae":  6.99,
+        "saebom":  8.64
+    },
+    {
+        "month":  "2022-10",
+        "hanbit":  9.31,
+        "mirae":  7.41,
+        "saebom":  9.24
+    },
+    {
+        "month":  "2022-11",
+        "hanbit":  10.43,
+        "mirae":  8.3,
+        "saebom":  10.45
+    },
+    {
+        "month":  "2022-12",
+        "hanbit":  11.31,
+        "mirae":  9.02,
+        "saebom":  11.33
+    },
+    {
+        "month":  "2023-01",
+        "hanbit":  11.66,
+        "mirae":  8.6,
+        "saebom":  9.98
+    },
+    {
+        "month":  "2023-02",
+        "hanbit":  12.27,
+        "mirae":  9.34,
+        "saebom":  9.67
+    },
+    {
+        "month":  "2023-03",
+        "hanbit":  12.95,
+        "mirae":  8.91,
+        "saebom":  9.39
+    },
+    {
+        "month":  "2023-04",
+        "hanbit":  13.35,
+        "mirae":  8.96,
+        "saebom":  9.16
+    },
+    {
+        "month":  "2023-05",
+        "hanbit":  13.41,
+        "mirae":  8.32,
+        "saebom":  8.76
+    },
+    {
+        "month":  "2023-06",
+        "hanbit":  12.98,
+        "mirae":  7.79,
+        "saebom":  7.8
+    },
+    {
+        "month":  "2023-07",
+        "hanbit":  11.78,
+        "mirae":  7.74,
+        "saebom":  8.15
+    },
+    {
+        "month":  "2023-08",
+        "hanbit":  11.25,
+        "mirae":  7.2,
+        "saebom":  8.01
+    },
+    {
+        "month":  "2023-09",
+        "hanbit":  11.15,
+        "mirae":  7.54,
+        "saebom":  8.71
+    },
+    {
+        "month":  "2023-10",
+        "hanbit":  10.89,
+        "mirae":  7.54,
+        "saebom":  8.98
+    },
+    {
+        "month":  "2023-11",
+        "hanbit":  12.48,
+        "mirae":  9.4,
+        "saebom":  10.16
+    },
+    {
+        "month":  "2023-12",
+        "hanbit":  13.45,
+        "mirae":  9.73,
+        "saebom":  10.62
+    },
+    {
+        "month":  "2024-01",
+        "hanbit":  13.01,
+        "mirae":  9.84,
+        "saebom":  9.91
+    },
+    {
+        "month":  "2024-02",
+        "hanbit":  14,
+        "mirae":  9.83,
+        "saebom":  9.23
+    },
+    {
+        "month":  "2024-03",
+        "hanbit":  15.73,
+        "mirae":  10.18,
+        "saebom":  8.98
+    },
+    {
+        "month":  "2024-04",
+        "hanbit":  15.88,
+        "mirae":  9.76,
+        "saebom":  8.43
+    },
+    {
+        "month":  "2024-05",
+        "hanbit":  15.92,
+        "mirae":  9.28,
+        "saebom":  8.4
+    },
+    {
+        "month":  "2024-06",
+        "hanbit":  15.01,
+        "mirae":  8.41,
+        "saebom":  7.79
+    },
+    {
+        "month":  "2024-07",
+        "hanbit":  13.49,
+        "mirae":  8.62,
+        "saebom":  8.01
+    },
+    {
+        "month":  "2024-08",
+        "hanbit":  13.41,
+        "mirae":  7.99,
+        "saebom":  7.61
+    },
+    {
+        "month":  "2024-09",
+        "hanbit":  12.75,
+        "mirae":  8.47,
+        "saebom":  7.93
+    },
+    {
+        "month":  "2024-10",
+        "hanbit":  12.2,
+        "mirae":  8.24,
+        "saebom":  8.79
+    },
+    {
+        "month":  "2024-11",
+        "hanbit":  14.5,
+        "mirae":  9.89,
+        "saebom":  10.09
+    },
+    {
+        "month":  "2024-12",
+        "hanbit":  15.4,
+        "mirae":  10.71,
+        "saebom":  10.74
+    },
+    {
+        "month":  "2025-01",
+        "hanbit":  14.98,
+        "mirae":  10.08,
+        "saebom":  9.42
+    },
+    {
+        "month":  "2025-02",
+        "hanbit":  16.77,
+        "mirae":  10.43,
+        "saebom":  9.11
+    },
+    {
+        "month":  "2025-03",
+        "hanbit":  18.27,
+        "mirae":  10.88,
+        "saebom":  8.86
+    },
+    {
+        "month":  "2025-04",
+        "hanbit":  18.14,
+        "mirae":  10.2,
+        "saebom":  8.28
+    },
+    {
+        "month":  "2025-05",
+        "hanbit":  17.76,
+        "mirae":  10.13,
+        "saebom":  7.85
+    },
+    {
+        "month":  "2025-06",
+        "hanbit":  16.89,
+        "mirae":  9.19,
+        "saebom":  7.79
+    },
+    {
+        "month":  "2025-07",
+        "hanbit":  15.84,
+        "mirae":  9.35,
+        "saebom":  7.81
+    },
+    {
+        "month":  "2025-08",
+        "hanbit":  14.55,
+        "mirae":  8.63,
+        "saebom":  7.81
+    },
+    {
+        "month":  "2025-09",
+        "hanbit":  13.95,
+        "mirae":  8.63,
+        "saebom":  8.28
+    },
+    {
+        "month":  "2025-10",
+        "hanbit":  14.17,
+        "mirae":  9.25,
+        "saebom":  8.6
+    },
+    {
+        "month":  "2025-11",
+        "hanbit":  16.78,
+        "mirae":  10.8,
+        "saebom":  9.55
+    },
+    {
+        "month":  "2025-12",
+        "hanbit":  17.61,
+        "mirae":  11.8,
+        "saebom":  10.15
+    }
+]
